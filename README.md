@@ -4,7 +4,7 @@ Hi! I'm Boris! I've just defended a dissertation at Johns Hopkins about a new wa
 
 https://github.com/bbrener1/rusty_axe
 
-In the past I've done other kinds of biology work, like working on highly sensitive qPCR, good enough to detect not just a difference of a single base but good enough to detect non-standard DNA bases (lesions) in synthetic constructs. (https://www.nature.com/articles/s41598-017-12963-7, lol @ that url but it's really just scientific reports) 
+In the past I've done other kinds of biology work, like working on highly sensitive qPCR, good enough to detect not just a difference of a single base but good enough to detect non-standard DNA bases (lesions) in synthetic constructs. (https://www.nature.com/articles/s41598-017-12963-7, lol @ that url but it's really just Scientific Reports) 
 
 My main interest has been and will be the biology of aging, and I studied both molecular biology and bioinformatics to enable me to stage really cool experiments about the mechanisms of aging. Want to talk about detecting heteroplasmy at single-cell level to study the short-term evolutionary patterns of mt genomes? Want to rant about "damn it, why is stem cell depletion so all over the place? differentiation isn't that fancy a process, so how is the aging association backwards in every other tissue? It makes no sense!" at 3 am? Yeah, same, same. 
 
