@@ -15,7 +15,7 @@ My main interest has been and will be the biology of aging, and I studied both m
 
 ## Work
 
-* **Johns Hopkins Medical School**: Postdoc, Stein-O'Brien Lab
+* **Johns Hopkins Medical School**: Postdoc, Stein-O'Brien Lab (24-present)
 * **Emerald Cloud Lab**: Scientific Developer (2022-2023)
 * **Johns Hopkins University**: Research Assistant/Teaching Assistant (2015-2021)
 * **National Institute on Aging**: Postbaccalaureate Fellow (2013-2015)
